@@ -10,4 +10,4 @@ email varchar(100),
 indade int 
 );
 
-select * from usuarios where idade = 8;
+delete from usuarios where nome = "Pedrinho";
