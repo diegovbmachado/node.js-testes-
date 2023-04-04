@@ -1,5 +1,7 @@
-insert into usuarios(nome, email, cidade) values(
-
+insert into usuarios(nome, email, idade) values(
+"Victor Lima", 
+"email@teste.com",
+8
 );
 
 create table usuarios(
