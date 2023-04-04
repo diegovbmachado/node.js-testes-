@@ -9,3 +9,5 @@ nome varchar(50),
 email varchar(100),
 indade int 
 );
+
+select * from usuarios where idade = 8;
