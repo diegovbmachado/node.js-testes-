@@ -13,3 +13,6 @@ indade int
 delete from usuarios where nome = "Pedrinho";
 
 Update usuarios set nome = "nome de teste" where nome = "Pedrinho";
+
+
+
