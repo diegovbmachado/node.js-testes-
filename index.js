@@ -5,6 +5,7 @@ const handlebars = require('express-handlebars')
 
 
 //config    
+//aaa
     //tamplete engine
     const hbs = handlebars.create({
         defaultLayout: 'main'
